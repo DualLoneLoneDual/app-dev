@@ -13,4 +13,4 @@
 
 ---
 
-This is the link to [Kaiji]([https://www.example.com](https://www.imdb.com/title/tt1202625/?ref_=nv_sr_srsg_3_tt_5_nm_3_q_Kaiji)https://www.imdb.com/title/tt1202625/?ref_=nv_sr_srsg_3_tt_5_nm_3_q_Kaiji)
+This is the link to [Kaiji](https://www.imdb.com/title/tt1202625/?ref_=nv_sr_srsg_3_tt_5_nm_3_q_Kaiji)
